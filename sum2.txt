@@ -1,0 +1,6 @@
+private int sum2 (int a, int b) {
+	if (a+b > integer.MAX) {
+	throw new RuntimeException (A + B must not be exceed the max number);	
+}
+	return a+b;
+}
