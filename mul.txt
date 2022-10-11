@@ -1,0 +1,6 @@
+private int mul(int a, int b) {
+	if (a * b > integer.MAX || a * b < integer.MIN) {
+		throw new RuntimeException (A*B must not exceed Max or min);
+}
+	return a*b;
+}
