@@ -1,1 +1,2 @@
 //This is prime function 
+//edit 2
